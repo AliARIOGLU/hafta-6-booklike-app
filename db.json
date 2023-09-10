@@ -1,0 +1,241 @@
+{
+  "users": [
+    {
+      "fullname": "Ali Cabbar",
+      "username": "codex",
+      "password": "e46536ccb9332e4ad866252de50a09ec2bce42fd",
+      "id": 1
+    },
+    {
+      "fullname": "İsmo",
+      "username": "iso",
+      "password": "e46536ccb9332e4ad866252de50a09ec2bce42fd",
+      "id": 2
+    }
+  ],
+  "user_likes": [
+    {
+      "userId": 2,
+      "bookmarkId": 3,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "bookmarkId": 2,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "bookmarkId": 3,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "bookmarkId": 1,
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "bookmarkId": 11,
+      "id": 10
+    }
+  ],
+  "user_bookmarks": [
+    {
+      "userId": 1,
+      "bookmarkId": 2,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "bookmarkId": 2,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "bookmarkId": 3,
+      "id": 8
+    }
+  ],
+  "bookmarks": [
+    {
+      "title": "Vue3",
+      "url": "http://vue.com",
+      "categoryId": 1,
+      "description": "vue is good",
+      "userId": 1,
+      "created_at": "2023-09-05T19:19:59.590Z",
+      "id": 1
+    },
+    {
+      "title": "React",
+      "url": "http://reactjs.org",
+      "categoryId": 2,
+      "description": "Taklitler aslını yaşatır...",
+      "userId": 1,
+      "created_at": "2023-09-05T19:42:31.025Z",
+      "id": 2
+    },
+    {
+      "title": "Basketball",
+      "url": "http://wbna.com",
+      "categoryId": 6,
+      "description": "oleyyyy baskeyball",
+      "userId": 2,
+      "created_at": "2023-09-05T20:18:11.659Z",
+      "id": 3
+    },
+    {
+      "title": "Marvell Films",
+      "url": "http://",
+      "categoryId": 6,
+      "description": "güzel filmler",
+      "userId": 2,
+      "created_at": "2023-09-05T20:46:09.029Z",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "url": "asdasd",
+      "categoryId": 4,
+      "description": "asdasd",
+      "userId": 1,
+      "created_at": "2023-09-05T21:29:02.094Z",
+      "id": 5
+    },
+    {
+      "title": "test3",
+      "url": "dasdas",
+      "categoryId": 5,
+      "description": "dasdasda",
+      "userId": 1,
+      "created_at": "2023-09-05T21:29:17.156Z",
+      "id": 6
+    },
+    {
+      "title": "new yer imi",
+      "url": "http://",
+      "categoryId": 2,
+      "description": "heyyyy",
+      "userId": 2,
+      "created_at": "2023-09-06T15:19:20.662Z",
+      "id": 7
+    },
+    {
+      "title": "test3",
+      "url": "http://",
+      "categoryId": 2,
+      "description": "heyyyy",
+      "userId": 2,
+      "created_at": "2023-09-06T15:28:04.012Z",
+      "id": 8
+    },
+    {
+      "title": "testS",
+      "url": "http://",
+      "categoryId": 3,
+      "description": "dasdasd",
+      "userId": 2,
+      "created_at": "2023-09-06T15:31:32.713Z",
+      "id": 9
+    },
+    {
+      "title": "testL",
+      "url": "dasdas",
+      "categoryId": 2,
+      "description": "dasdasd",
+      "userId": 2,
+      "created_at": "2023-09-06T15:32:06.109Z",
+      "id": 10
+    },
+    {
+      "title": "tetM",
+      "url": "http://..",
+      "categoryId": 5,
+      "description": "erqaa",
+      "userId": 2,
+      "created_at": "2023-09-06T15:43:17.379Z",
+      "id": 11
+    },
+    {
+      "title": "testH",
+      "url": "http",
+      "categoryId": 5,
+      "description": "asdasdasd",
+      "userId": 1,
+      "created_at": "2023-09-06T15:46:31.009Z",
+      "id": 12
+    },
+    {
+      "title": "testK",
+      "url": "asdasd",
+      "categoryId": 4,
+      "description": "asdasdas",
+      "userId": 1,
+      "created_at": "2023-09-06T15:47:00.123Z",
+      "id": 13
+    },
+    {
+      "title": "testY",
+      "url": "asdqwa",
+      "categoryId": 3,
+      "description": "dasdasdasd",
+      "userId": 2,
+      "created_at": "2023-09-06T15:47:17.743Z",
+      "id": 14
+    },
+    {
+      "title": "testAli",
+      "url": "asdas",
+      "categoryId": 2,
+      "description": " sadasd",
+      "userId": 1,
+      "created_at": "2023-09-06T15:48:16.877Z",
+      "id": 15
+    },
+    {
+      "title": "aliden",
+      "url": "http",
+      "categoryId": 6,
+      "description": "sadqwdasd",
+      "userId": 1,
+      "created_at": "2023-09-06T15:50:46.725Z",
+      "id": 16
+    },
+    {
+      "title": "isoTest",
+      "url": "htpp",
+      "categoryId": 2,
+      "description": "asdqwdas",
+      "userId": 2,
+      "created_at": "2023-09-06T15:51:56.462Z",
+      "id": 17
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vue.js",
+      "id": 1
+    },
+    {
+      "name": "React.js",
+      "id": 2
+    },
+    {
+      "name": "Frontend",
+      "id": 3
+    },
+    {
+      "name": "Backend",
+      "id": 4
+    },
+    {
+      "name": "Cloud",
+      "id": 5
+    },
+    {
+      "name": "Social Life",
+      "id": 6
+    }
+  ]
+}
